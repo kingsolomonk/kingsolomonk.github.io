@@ -1,12 +1,14 @@
 # Solomon Kim
 
-solomon.kim47@gmail.com
+Email:
+> solomon.kim47@gmail.com
 
-http://www.linkedin.com/in/solo-kim/
+LinkedIn:
+> http://www.linkedin.com/in/solo-kim/
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+Experienced in 
 
 # Work Experience (only last 10 years)
 
@@ -14,10 +16,17 @@ Quick Summary (not objective) specifically highlighting why you qualify for the 
 * Best Buy
 * Expeditors
 
+# Education
 ## University of Washington (Seattle, WA)
 
-* [University of Washington][]
+**Senior in [Geography: Data Science][]** (2018 - 2022)
 
-**Senior in Geography: Data Science** (2018 - 2022)
+![UW logo](https://www.uwb.edu/getattachment/advancement/marketing-communications/brand/graphics/logos/w-logo-icon.png)
+
+[University of Washington][]
+
+
+
+[Geography: Data Science]: https://geography.washington.edu/ba-geography-data-science-option
 
 [University of Washington]: http://www.uw.edu
