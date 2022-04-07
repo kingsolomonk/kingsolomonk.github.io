@@ -6,11 +6,11 @@ Email:<br>
 <solomon.kim47@gmail.com>
 
 LinkedIn:<br>
-<http://www.linkedin.com/in/solo-kim/>
+http://www.linkedin.com/in/solo-kim/
 
 # Summary
 
-Experienced in 
+Experienced in Data Analysis and GIS operations
 
 # Work Experience (only last 10 years)
 
