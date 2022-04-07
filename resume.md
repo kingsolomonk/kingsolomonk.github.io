@@ -1,10 +1,12 @@
+^^^Home Button^^^
+
 # Solomon Kim
 
-Email:
-> solomon.kim47@gmail.com
+Email:<br>
+solomon.kim47@gmail.com
 
-LinkedIn:
-> http://www.linkedin.com/in/solo-kim/
+LinkedIn:<br>
+http://www.linkedin.com/in/solo-kim/
 
 # Summary
 
