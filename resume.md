@@ -3,10 +3,10 @@
 # Solomon Kim
 
 Email:<br>
-solomon.kim47@gmail.com
+<solomon.kim47@gmail.com>
 
 LinkedIn:<br>
-http://www.linkedin.com/in/solo-kim/
+<http://www.linkedin.com/in/solo-kim/>
 
 # Summary
 
